@@ -1,4 +1,5 @@
-I made Cd/Ci pipline as well in Heroku 
+I set up CI/CD pipelines as well in Heroku 
+
 https://github.com/arezousohrabvand/ContactMangerWebApi
 
 https://contactmanager-dev.herokuapp.com/
